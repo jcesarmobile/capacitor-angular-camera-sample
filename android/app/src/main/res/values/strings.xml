@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">camerangular</string>
+    <string name="title_activity_main">camerangular</string>
+    <string name="package_name">es.test.camerangular</string>
+    <string name="fileprovider_authority">es.test.camerangular.fileprovider</string>
+    <string name="custom_url_scheme">es.test.camerangular</string>
+</resources>

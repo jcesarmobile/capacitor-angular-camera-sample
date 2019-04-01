@@ -1,0 +1,6 @@
+{
+  "appId": "es.test.camerangular",
+  "appName": "camerangular",
+  "bundledWebRuntime": false,
+  "webDir": "www"
+}
