@@ -8,5 +8,7 @@
 
 <ion-content padding>
   <img [src]="image" />
-  <ion-button (click)="takePicture()" color="primary">Take Picture</ion-button>
+  <ion-button (click)="takePictureUri()" color="primary">Take Picture Uri</ion-button>
+  <ion-button (click)="takePictureBase64()" color="primary">Take Picture base 64</ion-button>
+  <ion-button (click)="takePictureDataUrl()" color="primary">Take Picture data url</ion-button>
 </ion-content>
